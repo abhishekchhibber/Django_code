@@ -44,4 +44,4 @@ for data1 in alldata:
 	dict['Quarter'] = quat
 	dict['Month_year'] = monthy," ",fulldate.year
 	
-  data.append(dict)
+  	data.append(dict)
